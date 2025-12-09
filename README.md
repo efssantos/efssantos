@@ -34,36 +34,6 @@
 
 -----  
 
-
-<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
-
-| Repo Name | URL | Tech Stack |
-|-----------|-----|------------|
-| Stopwatch | [Link](https://github.com/avinash201199/stopwatch) | HTML, CSS, JavaScript |
-| Login-Signup Templates | [Link](https://github.com/avinash201199/Login-Signup-templates) | HTML, CSS |
-| Meme Generator | [Link](https://github.com/avinash201199/MemeGenerator) | HTML, CSS, JavaScript |
-| Weather App | [Link](https://github.com/avinash201199/weather-app) | HTML, CSS, JavaScript, API |
-| My Gallery 4u | [Link](https://github.com/avinash201199/My-Gallery-4u) | HTML, CSS, JavaScript |
-| Memory Game | [Link](https://github.com/avinash201199/Memory-Game) | HTML, CSS, JavaScript |
-| Free Programming Books | [Link](https://github.com/avinash201199/Free-programming-books) | Various |
-
-
-
-
-<h1 align="center">Projects</h1>
-
-</div>
-<div  align="center">
- 
-<a href="https://avinash201199.github.io/Avinash-Singh/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=Avinash-Singh&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://avinash201199.github.io/weather-app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=weather-app&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://avinash201199.github.io/To-Do-List/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=To-Do-List&show_icons=true&theme=great-gatsby"></a>
-<a href="https://meme-generator-three-psi.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=MemeGenerator&show_icons=true&theme=great-gatsby"></a>
-
-</div>
-
-
-
 ### Languages and Tools
 
 <p>
