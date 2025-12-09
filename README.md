@@ -1,4 +1,4 @@
-### Hello world, I'm Avinash  👋 
+### Hello world, Eu sou o Eduardo!  👋 
 
 -----
 
