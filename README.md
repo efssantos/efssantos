@@ -12,18 +12,15 @@
 
 ![profile count](https://komarev.com/ghpvc/?username=efssantos&color=red)&nbsp;
 [![GitHub avinash201199](https://img.shields.io/github/followers/efssantos?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mim:
 
-💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.
+💡 &nbsp; Olá! Sou um estudante na reta final da graduação com foco em infraestrutura on-premisse e all cloud!
 
-🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
-✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
-
-### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
+🌱 &nbsp;Estou na estarada de aprendizado, em busca de não somente aprender, mas também colaborar com outras pessoas. \
+💬 &nbsp;Fique a vontadade para me consultar e discutir alguns temas. \
 
 -----
-### 📫 &nbsp; How to reach me:
+### 📫 &nbsp; Como me encontrar:
 
 
 
