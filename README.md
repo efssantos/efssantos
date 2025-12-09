@@ -52,12 +52,3 @@
  -----
   
 </p>
-
-
-
-<h1 align="center">Github Stats</h1>
- 
- 
-<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=efssantos&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efssantos&layout=compact&theme=dark" width="46%" />
-<br>
